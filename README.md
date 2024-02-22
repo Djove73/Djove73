@@ -1,3 +1,6 @@
+![image](https://github.com/Djove73/Djove73/assets/154219638/a6fb825f-96d1-4dfb-b3b8-0739d9b18253)
+
+
 👋 ¡Hola, mundo! Soy Roger, un apasionado del código y un eterno aprendiz en el vasto universo de la programación.
 
 💻 En mi viaje por el mundo del desarrollo, he explorado diversos lenguajes y tecnologías, desde el elegante Python hasta el dinámico JavaScript. Mis habilidades abarcan el desarrollo web, la automatización de tareas y la creación de soluciones innovadoras.
