@@ -34,6 +34,12 @@ I'm a collegue student learning as many things as possible, hardworking and ener
 ## GitHub Stats
 ![Djove73's GitHub stats](https://github-readme-stats.vercel.app/api?username=Djove73&show_icons=true&theme=dark)<br><br>
 
+
+### Attachments
+
+* [CV](https://github.com/myusername/myrepo/blob/main/mydocument.pdf)<br><br>
+
+
 📫 ¡We should keep in touch!
 Here are my socials: Email (rogerjove2005@gmail.com), Instagram (rogeer_jove).
 
