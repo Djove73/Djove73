@@ -1,7 +1,7 @@
 <h1>💻 ROGER JOVÉ 🌐</h1>
 
 
-**`Digital Craftsman (Full Stack Developer / Student)`**
+**`Digital Craftsman (Full Stack Developer / Student)`**<br><br>
 
 I'm a collegue student learning as many things as possible, hardworking and energized when talking about tecnology/sciene related topics. Tring to be de best at what I am doing 📚. Every single developer started with a basic "Hello World".
 
@@ -13,7 +13,11 @@ I'm a collegue student learning as many things as possible, hardworking and ener
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;<br><br>
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=MySQL)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+<br><br>
 
 
 ### 🧰 Technical Tools
