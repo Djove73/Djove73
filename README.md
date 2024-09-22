@@ -37,7 +37,7 @@ I'm a collegue student learning as many things as possible, hardworking and ener
 
 ### Attachments
 
-* [CV](https://github.com/myusername/myrepo/blob/main/mydocument.pdf)<br><br>
+* [CV]([Currículum Vitae (CV).pdf](https://github.com/user-attachments/files/17089738/Curriculum.Vitae.CV.pdf))<br><br>
 
 
 📫 ¡We should keep in touch!
